@@ -1,0 +1,2 @@
+# lunarvim-config
+lunarvi-config
